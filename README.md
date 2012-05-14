@@ -1,5 +1,9 @@
-Complete Google App Engine + Backbone.js + Require.js Todo list Web App Example
-===============================================================================
+Complete Google App Engine REST API + Backbone.js + Require.js Beer Web App Example
+===================================================================================
+
+
+IG: TODO....
+
 
 Based on the work of Thomas Davis (http://backbonetutorials.com/) and Jérôme Gravel-Niquet (http://jgn.me).
 
@@ -9,6 +13,7 @@ Presentation and a code walkthrough can be found here: http://www.slideshare.net
 
 Here you can find a fully working example of a Todo list web app which uses REST API to communicate with its back end. The app uses:
 
+TODO: 
 * Google App Engine (Python) for its back end
 * Backbone.js for the MVC framework
 * Underscore.js for templating and Backbone.js
@@ -27,8 +32,7 @@ This web app can teach you a lot just by reading the source code. It's a great b
 
 Getting Started
 ---------------
-
-To build the app, download node.js from http://nodejs.org, and run the build script under "build/build".
+TODO:
 
 Once this is done, you should download and install the Google App Engine SDK for Python here: http://code.google.com/appengine/downloads.html#Google_App_Engine_SDK_for_Python. After installing the SDK, you can run your app using the Google App Engine Launcher, and later on deploy it to Google.
 
