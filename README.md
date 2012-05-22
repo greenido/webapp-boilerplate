@@ -1,4 +1,4 @@
-Complete Google App Engine REST API + Backbone.js + Require.js + (new) Beer Web App Example
+Complete Google App Engine REST API + Backbone.js + Require.js + (new) Drinks Web App Example
 ===========================================================================================
 
 
